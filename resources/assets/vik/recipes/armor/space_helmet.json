@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "G G"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:moon_ball"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:space_helmet"
+    }
+}

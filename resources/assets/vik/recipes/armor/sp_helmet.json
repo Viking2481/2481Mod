@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "G G"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:sp_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:sp_helmet"
+    }
+}

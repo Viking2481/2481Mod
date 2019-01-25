@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G",
+        "G",
+        "S"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:sa_gem"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:sa_sword"
+    }
+}

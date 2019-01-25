@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G G",
+        "G G"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:plasmacore"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:p_boots"
+    }
+}

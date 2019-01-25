@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G G",
+        "GGG",
+        "GGG"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:amethyst"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:am_chest"
+    }
+}

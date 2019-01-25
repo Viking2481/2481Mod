@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "X"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "vik:am_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:amethyst",
+        "count": 9
+    }
+}

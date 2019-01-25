@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G G",
+        "G G"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:strange_coin"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:strange_boots"
+    }
+}

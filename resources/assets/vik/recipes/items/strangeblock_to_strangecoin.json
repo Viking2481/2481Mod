@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "X"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "vik:spire_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:strange_coin",
+        "count": 9
+    }
+}

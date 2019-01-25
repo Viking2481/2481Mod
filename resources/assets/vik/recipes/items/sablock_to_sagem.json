@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "X"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "vik:sa_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:sa_gem",
+        "count": 9
+    }
+}

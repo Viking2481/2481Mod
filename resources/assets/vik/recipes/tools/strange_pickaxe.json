@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:strange_coin"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:strange_pickaxe"
+    }
+}

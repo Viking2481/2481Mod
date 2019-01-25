@@ -1,0 +1,43 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A ",
+        "BCD",
+        " E "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "vik:plasmacore"
+        },
+        
+        "B":
+        {
+            "item": "vik:aq_ingot"
+        },
+        
+        "C":
+        {
+            "item": "vik:sa_gem"
+        },
+        
+        "D":
+        {
+            "item": "vik:amethyst"
+        },
+        
+        "E":
+        {
+            "item": "vik:strange_coin"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:moon_ball"
+    }
+}

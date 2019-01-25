@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "G G"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:plasmacore"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:p_helmet"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:plasmacore"
+        },
+        
+        "S":
+        {
+            "item": "vik:iron_rode"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:p_pickaxe"
+    }
+}

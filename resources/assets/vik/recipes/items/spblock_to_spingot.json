@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "X"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "vik:sp_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:sp_ingot",
+        "count": 9
+    }
+}

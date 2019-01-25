@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "vik:plasmacore"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:p_block"
+    }
+}

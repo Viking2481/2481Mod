@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "G G"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "vik:sa_gem"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:sa_helmet"
+    }
+}

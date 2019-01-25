@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "X"
+    ],
+    
+    "key":
+    {
+        "X":
+        {
+            "item": "vik:space_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:moon_ball",
+        "count": 9
+    }
+}

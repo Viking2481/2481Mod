@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XAX",
+        "AOA",
+        "XAX"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "vik:m_plank"
+        },
+        
+        "O":
+        {
+            "item": "vik:amethyst"
+        },
+        
+        "X":
+        {
+            "item": "vik:m_log"
+        }
+    },
+    
+    "result":
+    {
+        "item": "vik:spire_link"
+    }
+}
