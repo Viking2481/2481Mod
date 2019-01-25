@@ -1,0 +1,120 @@
+//Items
+item.sa_gem.name=Space Apple Gem
+item.plasmacore.name=Plasma Core
+item.sp_ingot.name=Spessartite Ingot
+item.aq_ingot.name=Aquamarine Ingot
+item.amethyst.name=Amethyst
+item.strange_coin.name=Strange Coin
+item.iron_rode.name=Iron Rode
+item.moon_ball.name=Moon Ball
+
+//Blocks
+tile.sa_block.name=Space Apple Block
+tile.p_block.name=Plasma Block
+tile.sp_block.name=Spessartite Block
+tile.aq_block.name=Aquamarine Block
+tile.am_block.name=Amethyst Block
+tile.space_block.name=Space Block
+
+tile.spire_block.name=Strange Block
+tile.spire_dust.name=Strange Dust
+tile.spire_stone.name=Strange Stone
+tile.spire_link.name=Strange Link
+
+
+//Tabs
+itemGroup.modtools=Tools
+itemGroup.modcombat=Combat
+itemGroup.moditems=Miscellaneous
+itemGroup.modblocks=Blocks
+itemGroup.moddecoration=Decoration
+itemGroup.modfood=Foodstuffs
+itemGroup.modtransport=Transportation
+itemGroup.modredstone=Redstone
+
+//Ores
+tile.ore_overworld_sa.name=Space Apple Ore
+tile.ore_overworld_p.name=Plasma Ore
+tile.ore_overworld_sp.name=Spessartite Ore
+tile.ore_overworld_aq.name=Aquamarine Ore
+tile.ore_overworld_am.name=Amethyst Ore
+tile.ore_overworld_strange.name=Strange Ore
+
+//Tools
+item.sa_pickaxe.name=Space Apple Pickaxe
+item.sa_sword.name=Space Apple Sword
+item.sa_axe.name=Space Apple Axe
+item.sa_shovel.name=Space Apple Shovel
+item.sa_hoe.name=Space Apple Hoe
+
+item.p_pickaxe.name=Prophet's Burden
+item.p_sword.name=Prophet's Bane
+item.p_axe.name=Prophet's Trial
+item.p_shovel.name=Prophet's Misery
+item.p_hoe.name=Prophet's Plague
+
+item.sp_pickaxe.name=Spessartite Pickaxe
+item.sp_sword.name=Spessartite Sword
+item.sp_axe.name=Spessartite Axe
+item.sp_shovel.name=Spessartite Shovel
+item.sp_hoe.name=Spessartite Hoe
+
+item.aq_pickaxe.name=Aquamarine Pickaxe
+item.aq_sword.name=Aquamarine Sword
+item.aq_axe.name=Aquamarine Axe
+item.aq_shovel.name=Aquamarine Shovel
+item.aq_hoe.name=Aquamarine Hoe
+
+item.am_pickaxe.name=Amethyst Pickaxe
+item.am_sword.name=Amethyst Sword
+item.am_axe.name=Amethyst Axe
+item.am_shovel.name=Amethyst Shovel
+item.am_hoe.name=Amethyst Hoe
+
+item.strange_pickaxe.name=Strange Pickaxe
+item.strange_sword.name=Strange Sword
+item.strange_axe.name=Strange Axe
+item.strange_shovel.name=Strange Shovel
+item.strange_hoe.name=Strange Hoe
+
+item.space_pickaxe.name=Space Pickaxe
+item.space_sword.name=Space Sword
+item.space_axe.name=Space Axe
+item.space_shovel.name=Space Shovel
+item.space_hoe.name=Space Hoe
+
+//Armor
+item.sa_helmet.name=Space Apple Helmet
+item.sa_chest.name=Space Apple Chest
+item.sa_pants.name=Space Apple Leggings
+item.sa_boots.name=Space Apple Boots
+
+item.p_helmet.name=Combat Harness Helmet
+item.p_chest.name=Combat Harness Chest
+item.p_pants.name=Combat Harness Leggings
+item.p_boots.name=Combat Harness Boots
+
+item.sp_helmet.name=Spessartite Helmet
+item.sp_chest.name=Spessartite Chest
+item.sp_pants.name=Spessartite Leggings
+item.sp_boots.name=Spessartite Boots
+
+item.aq_helmet.name=Aquamarine Helmet
+item.aq_chest.name=Aquamarine Chest
+item.aq_pants.name=Aquamarine Leggings
+item.aq_boots.name=Aquamarine Boots
+
+item.am_helmet.name=Amethyst Helmet
+item.am_chest.name=Amethyst Chest
+item.am_pants.name=Amethyst Leggings
+item.am_boots.name=Amethyst Boots
+
+item.strange_helmet.name=Strange Helmet
+item.strange_chest.name=Strange Chest
+item.strange_pants.name=Strange Leggings
+item.strange_boots.name=Strange Boots
+
+item.space_helmet.name=Space Helmet
+item.space_chest.name=Space Chest
+item.space_pants.name=Space Leggings
+item.space_boots.name=Space Boots

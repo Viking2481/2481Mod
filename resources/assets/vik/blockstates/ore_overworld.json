@@ -1,0 +1,11 @@
+{
+    "variants": 
+    {
+        "varient=sa": { "model": "vik:ore_overworld_sa" },
+        "varient=p": { "model": "vik:ore_overworld_p" },
+        "varient=sp": { "model": "vik:ore_overworld_sp" },
+        "varient=aq": { "model": "vik:ore_overworld_aq" },
+        "varient=am": { "model": "vik:ore_overworld_am" },
+        "varient=strange": { "model": "vik:ore_overworld_strange" }
+    }
+}
