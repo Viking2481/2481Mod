@@ -1,0 +1,8 @@
+{
+   "parent": "block/cube_bottom_top",
+   "textures": {
+       "bottom": "vik:blocks/spire_stone_bottom",
+       "top": "vik:blocks/spire_stone_top",
+       "side": "vik:blocks/spire_stone_side"
+   }
+}
